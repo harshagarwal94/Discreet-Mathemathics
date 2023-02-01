@@ -2,7 +2,7 @@
 
 The repository provides content related to the course of Discreet Mathematics in Vellore Institute of technology, (VIT BHOPAL UNIVERSITY)
 
-Course Instructor:- Dr. Sneha Jaiswal
+###### Course Instructor:- Dr. Sneha Jaiswal
 
 
 # Course Objective
@@ -11,7 +11,7 @@ Course Instructor:- Dr. Sneha Jaiswal
 
 (1)
 
-###### Set Theory and Boolean Algebra
+Set Theory and Boolean Algebra
 
 Relations and Functions, Partial Order Relations, Lattices, Boolean Algebra, 
 Laws of Boolean Algebra, Boolean Functions- Normal Forms, Application
