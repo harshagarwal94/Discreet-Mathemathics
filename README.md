@@ -64,4 +64,4 @@ fundamental circuits – cut vertices – directed circuits – shortest path al
 
 # Disclaimer
 * The Repository is only For educational purposes only.
-* harshagarwal94/Discreet-Mathemathics is licensed under the Creative Commons Zero v1.0 Universal
+* harshagarwal94/Discreet-Mathemathics is open Source Licensed
